@@ -37,7 +37,7 @@ function App() {
 
       <Routes>
        <Route
-          path="/"
+          path="/coming-soon"
           element={
             <>
               
@@ -47,7 +47,7 @@ function App() {
         />
 
         <Route
-          path="/menu"
+          path="/"
           element={<Menu />}
         />
       </Routes>
